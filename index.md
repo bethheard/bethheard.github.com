@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# About Me!
 
-You can use the [editor on GitHub](https://github.com/bethheard/bethheard.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello!! Bethany Heard here!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Student Number: s3725671	
+
+Email: s3725671@student.rmit.edu.au OR bethheard5@outlook.com 
+
+So, I’m a 19-year-old female who’s primarily lived in very rural and isolated areas my entire life, currently situated in a not-so-rural Geelong. The only language I know fluently is English as my schools didn’t tend to teach many other languages, apart from Indonesian which I have forgotten most of (Although I am interested in learning auslan). I graduated high school in 2018 and originally went to university to study a course in psychology with honors; however halfway through the year I had severely lost interest and dropped out. Now here I am doing IT!
+
+Interesting fact about myself!! I have had both an ‘innie’ and ‘outie’ bellybutton in my lifetime due to a surgery done when I was 7, where my outie bellybutton was made into an ‘innie’ as an unforeseen result of the surgery. How many people can say that?
 
 ### Markdown
 
