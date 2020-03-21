@@ -110,3 +110,19 @@ If successfully created, this application will assist and improve on individualâ
 
 
 
+
+
+# References
+
+###### Credit where credit is due my friends :) 
+
+  16personalities.com. 2020. Free Personality Test, Type Descriptions, Relationship And Career Advice | 16Personalities. [online] Available at: <https://www.16personalities.com/> [Accessed 19 March 2020].
+  Educationplanner.org. 2020. What's Your Learning Style? 20 Questions. [online] Available at: <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=10&V=4&T=6> [Accessed 19 March 2020].
+  Ejabberd.im. 2020. Ejabberd | Robust, Massively Scalable And Extensible XMPP Server. [online] Available at: <https://www.ejabberd.im/> [Accessed 19 March 2020].
+  pro, T., 2020. Best Cloud Management Software Of 2020: CMP's To Manage Services And Costs. [online] TechRadar. Available at: <https://www.techradar.com/best/best-cloud-management-software> [Accessed 19 March 2020].
+  SEEK. 2020. [online] Available at: <https://www.seek.com.au/job/41171555?type=standard#searchRequestToken=07c50ce5-9a41-4f2b-9a58-d519b349722a> [Accessed 19 March 2020].
+  Truity. 2020. The Big Five Personality Test. [online] Available at: <https://www.truity.com/personality-test/17315/test-results/17172363> [Accessed 19 March 2020].
+
+
+
+
