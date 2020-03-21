@@ -53,15 +53,15 @@ To obtain the qualifications and experience needed for this position, my first s
 
 # Profile
 
-**Myers-Briggs Test**
+_**Myers-Briggs Test**_
 
 Mediator INFP-T 
 
-**Learning Style**
+_**Learning Style**_
 
 Auditory
 
-**Big Five Personality Traits**
+_**Big Five Personality Traits**_
 
 ![big five image](https://user-images.githubusercontent.com/62051223/77224343-c0249980-6bb8-11ea-9e0d-7d2cfaab6c1e.JPG)
 
@@ -81,7 +81,11 @@ When forming a team, I do need to take these traits into account in order to cre
 
 The idea for this project is to create a mobile application that allows for individuals to edit, share, compare and sync their schedules with other people in an individualized or group setting – all on the go. The project will also include a desktop companion application, which will allow you to view and download schedules that you have synced and backed up into cloud software from your mobile phone. That will be the only purpose of the desktop companion.
 
+## Why this idea?
+
 The idea of this project came from the fact that I, myself, as well as many others I know, value being able to spend time with family and friends, but because of a busy lifestyle with work and/or university, struggle to schedule times to do so. This application is all about being able to compare your schedules with other peoples’ or groups’ schedules in a quick and easy way to see when you’re both/all available, without the hassle of long text message threads that lead to no plans being made, and with the ability to do so while out and about living your busy life. It is also a useful way for family to know what your up to if you live with them (like me) so they know when you will and won’t be home.
+
+## Fair enough! What kind of features will it have?
 
 This application will include many features to allow for the easiest process of creating and sharing a schedule. The application itself will include regular scheduling application features, such as adding events to your calendar with times and any other important information. It will include the ability to set up event reminders as well as a customizable color code system for the different aspects of your life such as work, schooling, errands and social events. For easy creation of schedules this application will allow you to sync up your accounts (such as Facebook, google and school accounts) and will automatically sync events from their built-in calendars into your schedule to reduce the hassle of manually inputting every event. The application will also notify you of any event clashes when you are creating new events. 
 
@@ -93,9 +97,14 @@ All the events created within these groups will be added to your private calenda
 
 To finish, you will be able to sync schedules into cloud software that you can access from a desktop companion on your PC should you need to download these schedules for email or printing purposes. This is the only feature of the desktop companion.
 
+
+## Wow... how do you do that!?
+
 Applications like these require specific kind of software and hardware in order to create. The only hardware you will need to create this application is a PC. Software wise there is a couple of things to consider; the actual mobile application and the cloud services. “Eljabberd” is an open source piece of software that will be used to create the chat servers required for the application – Popular mobile chat application WhatsAppTM started from Ejabberd. The open source program “Apache CloudStack” will be used to create and manage the cloud services. The mobile application itself will be completely built using java.
 
 With this software, comes different skills that are required. In order to manage the chat server through Ejabberd, a programming language known as ‘Erlang’ needs to be learnt and known. Obviously to create the application itself, knowledge of Java is required. Apache Cloud Stack also uses Java, so Java is a skill that needs to be known for many aspects of the application. Finding the skills for this project will be difficult if embarked on by yourself. However, recruiting people onto a team that know how to use programming languages such as erlang and java, will make the application a much easier project to work on.
+
+## So whats the end goal? What are you hoping this will achieve?
 
 If successfully created, this application will assist and improve on individual’s ability to retain a work-life balance. It will be easier to see when they can meet people or hold certain events as all the hassle of finding available time is done for you. While the application would achieve its purpose through this, its effectiveness is heavily-user dependent, meaning that individuals using the application need to be constantly updating their schedules and if they don’t, the application can’t work to its full potential. This application will hopefully improve people’s overall life quality, organization and reduce stress associated with keeping that work-life balance.
 
