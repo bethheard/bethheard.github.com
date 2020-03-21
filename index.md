@@ -4,7 +4,7 @@ Hello!! Bethany Heard here!!
 
 **Student Number:** s3725671	
 
-**Email:** s3725671@student.rmit.edu.au OR bethheard5@outlook.com 
+**Email:** s3725671@student.rmit.edu.au *OR* bethheard5@outlook.com 
 
 So, I’m a 19-year-old female who’s primarily lived in very rural and isolated areas my entire life, currently situated in a not-so-rural Geelong. The only language I know fluently is English as my schools didn’t tend to teach many other languages, apart from Indonesian which I have forgotten most of (Although I am interested in learning auslan). I graduated high school in 2018 and originally went to university to study a course in psychology with honors; however halfway through the year I had severely lost interest and dropped out. Now here I am doing IT!
 
@@ -28,14 +28,25 @@ During my studies at RMIT, I expect to learn a myriad of things about IT. Whethe
 
 ## Ideal Job
 
+### Cyber Security Analyst!
+
 ![Image of Job description](https://user-images.githubusercontent.com/62051223/77224272-20670b80-6bb8-11ea-9d85-1430383dfb6e.JPG)
+
 https://www.seek.com.au/job/41171555?type=standard#searchRequestToken=07c50ce5-9a41-4f2b-9a58-d519b349722a
+
+### So what exactly does this job entail?
 
 This position of being a cyber security analyst includes testing, using and reporting on cyber security systems. It includes testing the system to pinpoint any vulnerabilities, and to then manage and monitor the remedy of these vulnerabilities. You need to also report to the stakeholders of the company about any issues so that they can be adequately prepared in case of a cyber incident that could be damaging to their company. This position is appealing to me because I love the idea of being able to find and help fix issues within these systems. It is very important that systems like these are performing as well as they can be and are effective. It can sometimes be the difference between a successful company, and a company that falls apart.
 
+### Sounds like fun! What kind of skills, qualifications and experience do you need for that kind of job?
+
 In order to be successful in obtaining this position it is highly desirable that you have an undergraduate degree in either cyber security or an IT degree of another relevant discipline. It is also important to have good communication skills, both written and verbal to ensure the issues across as clear as possible. Having work experience that involves providing advice about security risk issues and management to stakeholders is also highly desirable.
 
+### Oh wow! Do you have those kinds of qualifications??
+
 In terms of how my skills, experience and qualifications line up with the requirements for this position, I do consider myself to have pretty good verbal and written communication skills, however, I don’t currently have any qualifications or experience in any relevant discipline of IT for this position. That’s a work in progress 😊
+
+### Yikes.... so whats the plan Beth?
 
 To obtain the qualifications and experience needed for this position, my first step is to complete a bachelor’s degree in IT and to specifically focus on the security side later in the degree. Hopefully through this degree I will also be able to pick up some work experience which will also assist in having the qualification I need to succeed in such a position. If I can’t focus on the security side of IT through the later years of my degree, I will try to obtain a postgraduate degree that’s highly specialized for cyber security.
 
@@ -43,10 +54,15 @@ To obtain the qualifications and experience needed for this position, my first s
 ## Profile
 
 **Myers-Briggs Test**
+
 Mediator INFP-T 
+
 **Learning Style**
+
 Auditory
+
 **Big Five Personality Traits**
+
 ![big five image](https://user-images.githubusercontent.com/62051223/77224343-c0249980-6bb8-11ea-9e0d-7d2cfaab6c1e.JPG)
 
 ### But what does this all mean??
@@ -59,6 +75,6 @@ These traits have both positive and negative impacts in terms of my behaviour in
 
 ### Cool! How do you go about forming this team then?
 
-When forming a team, I do need to take these traits into account in order to create the best team possible. As I have a habit of getting side-tracked and tend to be more of a cooperative person than a leader, finding someone with a more dominant personality traits to take a bit more charge and to help keep everyone on track would be a vital part of a team that I am in. It would also be helpful to have members with similar learning styles as we will be able to find resources for each other that we can all easily learn from. Having other members who are also able t think in abstract and complex ways would help with explaining and understanding ideas as well.
+When forming a team, I do need to take these traits into account in order to create the best team possible. As I have a habit of getting side-tracked and tend to be more of a cooperative person than a leader, finding someone with a more dominant personality to take a bit more charge and to help keep everyone on track would be a vital part of a team that I am in. It would also be helpful to have members with similar learning styles as we will be able to find resources for each other that we can all easily learn from. Having other members who are also able to think in abstract and complex ways would help with explaining and understanding ideas as well.
 
 
