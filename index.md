@@ -2,42 +2,17 @@
 
 Hello!! Bethany Heard here!!
 
-Student Number: s3725671	
+**Student Number:** s3725671	
 
-Email: s3725671@student.rmit.edu.au OR bethheard5@outlook.com 
+**Email:** s3725671@student.rmit.edu.au OR bethheard5@outlook.com 
 
 So, I’m a 19-year-old female who’s primarily lived in very rural and isolated areas my entire life, currently situated in a not-so-rural Geelong. The only language I know fluently is English as my schools didn’t tend to teach many other languages, apart from Indonesian which I have forgotten most of (Although I am interested in learning auslan). I graduated high school in 2018 and originally went to university to study a course in psychology with honors; however halfway through the year I had severely lost interest and dropped out. Now here I am doing IT!
 
 Interesting fact about myself!! I have had both an ‘innie’ and ‘outie’ bellybutton in my lifetime due to a surgery done when I was 7, where my outie bellybutton was made into an ‘innie’ as an unforeseen result of the surgery. How many people can say that?
 
-### Markdown
+# Interest In IT
+## So, what sparked your interest in IT?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My interest in IT didn’t really start until about the age of 15. It started in a year 9 compulsory IT class, where we were creating a game using the software ‘GameMaker’. What originally appealed me to this aspect of IT was the ability for me to be creative. I was never one to be good at writing or drawing or any of that so this allowed me to channel some creativity. During this lesson my teacher mentioned that they were organizing a coding class for every Tuesday at lunch. I however, chose to not take part, as I felt like I would be made fun of for being a girl interested in coding. I then started to get back into IT when I was about 17 when I started to create fake viruses to put on my brother’s computer that would shut down his computer whenever he clicked on a certain file because I was THAT sibling. This was the beginning of my interest in the security side of IT. Over the last year or so I have been able to learn a little bit of HTML just as a foundation of coding, but other than that I have no real experience with IT.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bethheard/bethheard.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
